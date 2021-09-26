@@ -1,0 +1,44 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="Button_Text">
+        <item name="fontFamily">@font/dosis_medium</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:letterSpacing">0.1</item>
+    </style>
+
+    <style name="Menu_TextView">
+    <item name="fontFamily">@font/montserrat_regular</item>
+    <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="ToolbarColoredBackArrow" parent="AppTheme">
+        <item name="android:textColorSecondary">@color/colorWhite</item>
+    </style>
+
+    <style name="Text_Heading">
+        <item name="fontFamily">@font/montserrat_bold</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/TextHeading</item>
+    </style>
+
+    <style name="Text_Box">
+        <item name="fontFamily">@font/montserrat_light</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="Login_Theme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/LogincolorPrimary</item>
+        <item name="colorPrimaryDark">@color/LogincolorPrimaryDark</item>
+        <item name="colorAccent">@color/LogincolorAccent</item>
+    </style>
+
+</resources>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Escape</string>
+
+    <!--Titles-->
+    <string name="first_slide_title">Make Profile Verified</string>
+    <string name="second_slide_title">Get Notify</string>
+    <string name="third_slide_title">Add Post For Events</string>
+
+
+    <!--Descriptions-->
+    <string name="first_slide_desc">Make sure you give all the information correct to keep your profile Verified </string>
+    <string name="second_slide_desc">Get notification badge if a user booked a event</string>
+    <string name="third_slide_desc">Make event for the user by adding post</string>
+
+
+    <string name="drawer_open">Open Navigation</string>
+    <string name="drawer_close">Close Navigation</string>
+
+
+</resources>

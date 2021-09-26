@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5c909b</color>
+    <color name="colorPrimaryDark">#2d626d</color>
+    <color name="colorAccent">#03DAC5</color>
+
+
+    <color name="Button">#f2e7c4</color>
+    <color name="Button2">#99bfb3</color>
+    <color name="colorAsh">#AAB3BC</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="TextHeading">#334856</color>
+
+    <color name="LogincolorPrimary">#0E7698</color>
+    <color name="LogincolorPrimaryDark">#004a6a</color>
+    <color name="LogincolorAccent">#53a5c9</color>
+
+
+</resources>

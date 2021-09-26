@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_event"
+            android:icon="@drawable/ic_event_post"
+            android:title="Event Post"
+            app:showAsAction="always"/>
+        <item
+            android:id="@+id/nav_post"
+            android:icon="@drawable/baseline_post_add_24"
+            android:title="Add Post"
+            app:showAsAction="always"/>
+
+        <item
+            android:id="@+id/nav_booking"
+            android:icon="@drawable/ic_booking_event"
+            android:title="Booking"
+            app:showAsAction="always" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_baseline_person"
+            android:title="Profile"
+            app:showAsAction="always"/>
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_baseline_power"
+            android:title="Logout"
+            app:showAsAction="always"/>
+        <item
+            android:id="@+id/nav_aboutus"
+            android:icon="@drawable/ic_info"
+            android:title="About Us" />
+    </group>
+
+</menu>
